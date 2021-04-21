@@ -1,7 +1,7 @@
 {
     "name":"Twitch Auto Bonus Claimer",
     "description":"Automatically claim your bonus on Twitch",
-    "version":"1",
+    "version":"1.1",
     "manifest_version":2,
     "permissions":[
        "http://www.twitch.tv/*",

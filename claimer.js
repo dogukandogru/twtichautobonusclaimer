@@ -3,7 +3,7 @@ function claimBonus(){
     for(var i = 0; i<buttons.length; i++){
         buttons[i].click();
     }
-    setTimeout(claimBonus, 10000);
+    setTimeout(claimBonus, 5000);
 }
 
 claimBonus();
